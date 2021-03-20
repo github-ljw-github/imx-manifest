@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <default sync-j="2"/>
+
+  <remote fetch="git@github.com:github-ljw-github/rbtree.git" name="master"/>
+
+  <project name="rbtree" path="sources/rbtree" remote="master" revision="27803b1ba73578b254727b18533cd81ac11ad001"/>
+
+</manifest>
